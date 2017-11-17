@@ -18,7 +18,7 @@
           <target>1.8</target>
             <archive>
                 <manifest>
-                    <mainClass>HelloWorld.Application</mainClass>
+                    <mainClass>src.HelloWorld.Application.Main</mainClass>
                 </manifest>
             </archive>
         </configuration>
