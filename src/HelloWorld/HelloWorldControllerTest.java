@@ -4,11 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-/**
- * Spring Boot HelloWorldController ≤‚ ‘ - {@link HelloWorldController}
- *
- * Created by bysocket on 16/4/26.
- */
+
 public class HelloWorldControllerTest {
  
     @Test
