@@ -16,7 +16,8 @@
         <configuration>
             <archive>
                 <manifest>
-                    <mainClass>HelloWorld.Application</mainClass>
+                	<addClasspath>true</addClasspath>
+                    <mainClass>src.HelloWorld.Application</mainClass>
                 </manifest>
             </archive>
         </configuration>
